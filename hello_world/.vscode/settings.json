@@ -1,0 +1,6 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.espIdfPathWin": "C:\\Users\\patri\\esp\\v5.4.2\\esp-idf",
+  "idf.toolsPathWin": "c:\\Users\\patri\\Documents\\Repositórios\\exerc_pthreads",
+  "idf.pythonInstallPath": "c:\\Users\\patri\\Documents\\Repositórios\\exerc_pthreads\\tools\\idf-python\\3.11.2\\python.exe"
+}
